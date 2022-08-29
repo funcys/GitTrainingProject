@@ -4,6 +4,7 @@ public class Main {
 			System.out.println("GITの練習用プロジェクトです");
 
 			aisatsu("こんにちは");
+			aisatsu("こんばんは");
 		}
 
 
